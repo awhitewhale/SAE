@@ -10,4 +10,4 @@ The format of these csv files is
 | ... | ... | ... | ... |
 
 
-The first column is a placeholder of the same size as the masks number.The second column shows the names of the image files in these datasets. The third column shows the number of snow particle masks in this image. The fourth column shows the coordinates of the four points of each mask. The format of these coordinates is [lower left x, lower left y, lower right x, lower right y, upper left x, upper left y, upper right x, upper right y].
+The first column is a placeholder of the same value as the masks number.The second column shows the names of the image files in these datasets. The third column shows the number of snow particle masks in this image. The fourth column shows the coordinates of the four points of each mask. The format of these coordinates is [lower left x, lower left y, lower right x, lower right y, upper left x, upper left y, upper right x, upper right y].

@@ -2,5 +2,11 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/compare/DesnowNet_Context-Aware_Deep_Network_for_Snow_Removal" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/compare/ICCV2021-Single-Image-Desnowing-HDCWNet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/compare/JSTASR-DesnowNet-ECCV-2020" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/compare/MPRNet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/compare/PatchGAN" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/compare/Two-stage-Knowledge-For-Multiple-Adverse-Weather-Removal" vcs="Git" />
   </component>
 </project>
